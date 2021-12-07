@@ -1,4 +1,10 @@
-## Repositorio de practica de un Modulo de Sistema de Nomina. :fa-eye:
+## Repositorio de practica de un Modulo de Sistema de Nomina. 
+
+**Cuenta con un modulo para alta de empleados.
+Modulo de gestion de empleados (CRUD) y Desactivar a empleados.
+Cuenta con el modulo de sesión (inicar sesión y cerrar sesión).
+Barra de usuario logueado.
+Nota: Solo se programo el back-end, no se toco la parte del front-end.**
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
